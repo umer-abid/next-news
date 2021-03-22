@@ -14,7 +14,7 @@ export const Toolbar = () => {
       </div>
       <div
         onClick={() => {
-          router.push(`/feed/{1}`);
+          router.push(`/feed/1`);
         }}
       >
         Feed
